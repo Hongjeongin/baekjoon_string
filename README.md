@@ -1,7 +1,7 @@
 Backjoon Online Judge
 ======================
 > 백준 알고리즘 사이트 문제 풀어보기   
-> <https://www.acmicpc.net/>   
+> <https://www.acmicpc.net/>{: target="_blank"}
 
 Subject: String
 ------------------------------------------

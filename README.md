@@ -4,7 +4,8 @@ Backjoon Online Judge
 > <https://www.acmicpc.net/>   
 <https://google.co.kr>   
 [Hello](https://google.co.kr){: target="_blank"}   
-<a href="http://example.com" target="_blank" rel="noopener">Link</a>
+<a href="http://example.com" target="_blank" rel="noopener">Link</a>   
+<a href="https//google.co.kr" target="_blank">hello</a>
 
 Subject: String
 ------------------------------------------
